@@ -1,19 +1,5 @@
-
-/*
-Wyświetlanie rysunków:
-
-- zrobić kostkę
-- zrobić display obrazka z numerem kostki
-*/
-//- shuffle
-//https://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array
-//https://stackoverflow.com/questions/5451445/how-to-display-image-with-javascript
-
-
 var pics = [0,0,1,1,2,2,3,3];
-   
-var i, j, k, m, qaz;
-var riddler;
+var i, j, k, m, qaz, riddler;
 qaz = 'start';
 
 function shuffle(arr){
