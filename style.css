@@ -22,161 +22,27 @@ h1{
 
 .pics {
     background-color: white;
+    height: 15vh;
+    width: 8vw;
     margin: 5%;
-    margin-top: 1%;
-    width: 10%;
-    height: 20%;
-    display: none;
-}
-/*
-#screen0 {
-    background-color: white;
-    margin: 5%;
-
-    margin-top: 1%;
-    width: 10%;
-    height: 20%;
-    display: none;
-}
-
-#screen1 {
-    background-color: white;
-
-    margin: 5%;
-    margin-top: 1%;
-
-    width: 10%;
-    height: 20%;
-    display: none;
-}
-
-#screen2 {
-    background-color: white;
-
-    margin: 5%;
-    margin-top: 1%;
-
-    width: 10%;
-    height: 20%;
-    display: none;
-}
-
-#screen3 {
-    background-color: white;
-
-    margin: 5%;
-    margin-top: 1%;
-
-    width: 10%;
-    height: 20%;
-    display: none;
-}
-
-#screen4 {
-    background-color: white;
-    margin: 5%;
-    margin-top: 17%;
-    width: 10%;
-    height: 20%;
-    display: none;
-}
-
-#screen5 {
-    background-color: white;
-    margin: 5%;
-    margin-top: 17%;
-    width: 10%;
-    height: 20%;
-    display: none;
-}
-
-#screen6 {
-    background-color: white;
-    margin: 5%;
-    margin-top: 17%;
-    width: 10%;
-    height: 20%;
-    display: none;
-}
-
-#screen7 {
-    background-color: white;
-    margin: 5%;
-    margin-top: 17%;
-    width: 10%;
-    height: 20%;
+    margin-top: 5%;
     display: none;
 }
 
 button {
     background-color: white;
-    height: 10%;
+    height: 15vh;
+    width: 8vw;
     margin: 5%;
-    margin-top: 1%;
-    width: 10%;
-}
-*/
-#btn0 {
-    margin: 5%;
-    margin-top: 1%;
-    width: 10%;
-    height: 20%;
-    display: inline;
+    margin-top: 5%;
+   
 }
 
-#btn1 {
+.btn {
+    height: 15vh;
+    width: 8vw;
     margin: 5%;
-    margin-top: 1%;
-    width: 10%;
-    height: 20%;
-    display: inline;
-}
-
-#btn2 {
-    margin: 5%;
-    margin-top: 1%;
-    width: 10%;
-    height: 20%;
-    display: inline;
-}
-
-#btn3 {
-    margin: 5%;
-    margin-top: 1%;
-    width: 10%;
-    height: 20%;
-    display: inline;
-}
-
-#btn4 {
-    margin: 5%;
-    margin-top: 17%;
-    width: 10%;
-    height: 20%;
-    display: inline;
-}
-
-#btn5 {
-    margin: 5%;
-    margin-top: 17%;
-    width: 10%;
-    height: 20%;
-    display: inline;
-}
-
-#btn6 {
-    margin: 5%;
-    margin-top: 17%;
-    width: 10%;
-    height: 20%;
-    display: inline;
-}
-
-#btn7 {
-    margin: 5%;
-    margin-top: 17%;
-    width: 10%;
-    height: 20%;
+    margin-top: 5%;
     display: inline;
 }
 
