@@ -30,7 +30,8 @@ h1{
 }
 
 button {
-    background-color: white;
+    background-color: Transparent;
+    border-color: Transparent;
     height: 15vh;
     width: 8vw;
     margin: 5%;
